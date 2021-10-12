@@ -11,6 +11,33 @@ nav {
   width: 100%;
   overflow: hidden;
 }
+/* @media screen and (min-width: 768px) {
+
+  nav li:first-child {
+
+    position: absolute;
+
+    top: 0;
+
+    left: 0;
+
+  }
+
+  nav ul {
+
+    position: relative;
+
+    flex-direction: row;
+
+    justify-content: center;
+
+  }
+
+  nav li {
+
+    margin: 0 1rem;
+
+  } */
 
 
 li {
