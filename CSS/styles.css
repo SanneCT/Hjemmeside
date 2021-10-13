@@ -11,38 +11,29 @@ nav {
   width: 100%;
   overflow: hidden;
 }
+
 /* @media screen and (min-width: 768px) {
 
   nav li:first-child {
-
     position: absolute;
-
     top: 0;
-
     left: 0;
-
   }
 
   nav ul {
-
     position: relative;
-
     flex-direction: row;
-
     justify-content: center;
-
   }
 
   nav li {
-
     margin: 0 1rem;
-
-  } */
-
+  }
 
 li {
   display: inline;
-}
+} */
+
 
 /* Body */
 body {
@@ -51,7 +42,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     margin: 0px;
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 /* footer design */
@@ -132,8 +123,8 @@ tbody tr:nth-child(even) {
 tbody tr:nth-child(odd) {
   background-color: #EED7C5;
 }
+
 table {
   margin-left: 1px;
   margin-right: 1px;
-}
-
+} 
