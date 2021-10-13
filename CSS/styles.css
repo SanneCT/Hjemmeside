@@ -12,13 +12,13 @@ nav {
   overflow: hidden;
 }
 
-/* @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
 
-  nav li:first-child {
+  /* nav li:first-child {
     position: absolute;
     top: 0;
     left: 0;
-  }
+  } */
 
   nav ul {
     position: relative;
@@ -32,7 +32,8 @@ nav {
 
 li {
   display: inline;
-} */
+}
+ }
 
 
 /* Body */
@@ -42,7 +43,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     margin: 0px;
-    margin-top: 80px;
+    margin-top: 5%;
 }
 
 /* footer design */
